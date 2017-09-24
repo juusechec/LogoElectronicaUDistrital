@@ -2,6 +2,9 @@
 
 Es una vectorización con software libre (inkscape) de uno de los logos de Ingeniera Electrónica de la Universidad Distrital Francisco José de Caldas (UDistrital) que encontré en la web. Espero no tener problemas legales por compartir la imagen en mejor calidad.
 
+### Antiguo PNG
+[![logo_ingelectronica_ud](./logo_electronica_original_antiguo.png)](https://raw.githubusercontent.com/juusechec/LogoElectronicaUDistrital/master/logo_electronica_original_antiguo.png)
+
 ### SVG
 [![logo_ingelectronica_ud](./logo_electronica_udistrital_naranja_azul.svg)](https://raw.githubusercontent.com/juusechec/LogoElectronicaUDistrital/master/logo_electronica_udistrital_naranja_azul.svg)
 
