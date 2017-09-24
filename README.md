@@ -2,21 +2,47 @@
 
 Es una vectorización con software libre (inkscape) de uno de los logos de Ingeniera Electrónica de la Universidad Distrital Francisco José de Caldas (UDistrital) que encontré en la web. Espero no tener problemas legales por compartir la imagen en mejor calidad.
 
-
+### SVG
 [![logo_ingelectronica_ud](./logo_electronica_udistrital_naranja_azul.svg)](https://raw.githubusercontent.com/juusechec/LogoElectronicaUDistrital/master/logo_electronica_udistrital_naranja_azul.svg)
 
+### PNG 128X128
 [![logo_ingelectronica_ud](./logo_electronica_udistrital_naranja_azul_128x128.png)](https://raw.githubusercontent.com/juusechec/LogoElectronicaUDistrital/master/logo_electronica_udistrital_naranja_azul_128x128.png)
 
+### PNG 512X512
 [![logo_ingelectronica_ud](./logo_electronica_udistrital_naranja_azul_512x512.png)](https://raw.githubusercontent.com/juusechec/LogoElectronicaUDistrital/master/logo_electronica_udistrital_naranja_azul_512x512.png)
 
+### PNG 2048X2048
 [![logo_ingelectronica_ud](./logo_electronica_udistrital_naranja_azul_2048x2048.png)](https://raw.githubusercontent.com/juusechec/LogoElectronicaUDistrital/master/logo_electronica_udistrital_naranja_azul_2048x2048.png)
 
+### JPG 128X128
 [![logo_ingelectronica_ud](./logo_electronica_udistrital_naranja_azul_fondo_blanco_128x128.jpg)](https://raw.githubusercontent.com/juusechec/LogoElectronicaUDistrital/master/logo_electronica_udistrital_naranja_azul_fondo_blanco_128x128.jpg)
 
+### JPG 512X512
 [![logo_ingelectronica_ud](./logo_electronica_udistrital_naranja_azul_fondo_blanco_512x512.jpg)](https://raw.githubusercontent.com/juusechec/LogoElectronicaUDistrital/master/logo_electronica_udistrital_naranja_azul_fondo_blanco_512x512.jpg)
 
+### JPG 2048X2048
 [![logo_ingelectronica_ud](./logo_electronica_udistrital_naranja_azul_fondo_blanco_2048x2048.jpg)](https://raw.githubusercontent.com/juusechec/LogoElectronicaUDistrital/master/logo_electronica_udistrital_naranja_azul_fondo_blanco_2048x2048.jpg)
 
+### SVG
+[![logo_ingelectronica_ud](./logo_electronica_udistrital_azul_negro_amarillo.svg)](https://raw.githubusercontent.com/juusechec/LogoElectronicaUDistrital/master/logo_electronica_udistrital_azul_negro_amarillo.svg)
+
+### PNG 128X128
+[![logo_ingelectronica_ud](./logo_electronica_udistrital_azul_negro_amarillo_128x128.png)](https://raw.githubusercontent.com/juusechec/LogoElectronicaUDistrital/master/logo_electronica_udistrital_azul_negro_amarillo_128x128.png)
+
+### PNG 512X512
+[![logo_ingelectronica_ud](./logo_electronica_udistrital_azul_negro_amarillo_512x512.png)](https://raw.githubusercontent.com/juusechec/LogoElectronicaUDistrital/master/logo_electronica_udistrital_azul_negro_amarillo_512x512.png)
+
+### PNG 2048X2048
+[![logo_ingelectronica_ud](./logo_electronica_udistrital_azul_negro_amarillo_2048x2048.png)](https://raw.githubusercontent.com/juusechec/LogoElectronicaUDistrital/master/logo_electronica_udistrital_azul_negro_amarillo_2048x2048.png)
+
+### JPG 128X128
+[![logo_ingelectronica_ud](./logo_electronica_udistrital_azul_negro_amarillo_fondo_blanco_128x128.jpg)](https://raw.githubusercontent.com/juusechec/LogoElectronicaUDistrital/master/logo_electronica_udistrital_azul_negro_amarillo_fondo_blanco_128x128.jpg)
+
+### JPG 512X512
+[![logo_ingelectronica_ud](./logo_electronica_udistrital_azul_negro_amarillo_fondo_blanco_512x512.jpg)](https://raw.githubusercontent.com/juusechec/LogoElectronicaUDistrital/master/logo_electronica_udistrital_azul_negro_amarillo_fondo_blanco_512x512.jpg)
+
+### JPG 2048X2048
+[![logo_ingelectronica_ud](./logo_electronica_udistrital_azul_negro_amarillo_fondo_blanco_2048x2048.jpg)](https://raw.githubusercontent.com/juusechec/LogoElectronicaUDistrital/master/logo_electronica_udistrital_azul_negro_amarillo_fondo_blanco_2048x2048.jpg)
 
 ## Referencias
 http://www1.udistrital.edu.co:8080/web/ingenieria-electronica/mision-vision-objetivos
